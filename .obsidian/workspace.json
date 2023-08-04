@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9cbf9e93f533531",
+  "active": "2ac80e3db509f9f0",
   "lastOpenFiles": [
+    "storage/Manager/别让猴子跳回背上.pdf",
+    "storage/Manager",
     "Android/OOM/Memory.md",
     "storage/BigData/《数据竞赛入门讲义》.pdf",
     "Android/OOM/Koom原理.md",
@@ -163,7 +165,6 @@
     "storage/BigData/竞赛实践路线分享.pdf",
     "BigData/竞赛路线.md",
     "BigData/文本分类.md",
-    "tmp/recognizePDFcache.txt",
     "BigData/词向量.md",
     "BigData/词袋模型.md",
     "BigData/词频-逆文档频率.md",
