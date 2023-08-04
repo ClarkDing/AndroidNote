@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "bf9378a619489a4c",
+    "id": "ea91c98f158f1c08",
     "type": "split",
     "children": [
       {
-        "id": "05d2cb1252f7ecab",
+        "id": "d581621d338c2719",
         "type": "tabs",
         "children": [
           {
-            "id": "3a85ddb4a99161fe",
+            "id": "c9cbf9e93f533531",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/OOM/Memory.md",
+                "file": "Android/OOM/Koom原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "607a4a4710cd97bf",
+    "id": "848e5518429cf9a0",
     "type": "split",
     "children": [
       {
-        "id": "8f1c6ac6bd43cef8",
+        "id": "d41b07e0a389ecf1",
         "type": "tabs",
         "children": [
           {
-            "id": "785d0dada7416133",
+            "id": "2ac80e3db509f9f0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "123261e9b45416b3",
+            "id": "c4b2bb747596cfae",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "653c5f729d2a33d9",
+            "id": "ba9110ad6bbd5cd0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "2369af1c6e605bb8",
+    "id": "186ec5e81498acf9",
     "type": "split",
     "children": [
       {
-        "id": "aa673ea450ef049a",
+        "id": "4c4fa24571e7d39f",
         "type": "tabs",
         "children": [
           {
-            "id": "f86b2bffb111d01d",
+            "id": "d81ee7d0ea4c459f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/OOM/Memory.md",
+                "file": "Android/OOM/Koom原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "346af01e634d7c78",
+            "id": "8c311e5738386ba3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/OOM/Memory.md",
+                "file": "Android/OOM/Koom原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3a91159933a96e98",
+            "id": "afd8835d45ff0d5b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "b715820d30bf9928",
+            "id": "c7657d3ffa466c27",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/OOM/Memory.md"
+                "file": "Android/OOM/Koom原理.md"
               }
             }
           }
@@ -138,35 +138,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "785d0dada7416133",
+  "active": "c9cbf9e93f533531",
   "lastOpenFiles": [
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/MsgAttach/d995f838610688b6b1d1361166b235a7/Image/2023-08/26240e830c934c808c38696c178deea2.datd83f9bbb00a95088c280c6c28bc3aa3b",
-    "新建文本文档.txt",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/MsgAttach/d995f838610688b6b1d1361166b235a7/Thumb/2023-08/6ea4876c13bb7e38342f3f59dccfde32_t.dat",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/MsgAttach/d995f838610688b6b1d1361166b235a7/Thumb/2023-08/6ea4876c13bb7e38342f3f59dccfde32_t.datd83f9bbb00a95088c280c6c28bc3aa3b",
-    "Android/OOM",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/CustomEmotion/B2/B28BB3342E77D084FBACC91163CE782A",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/CustomEmotion/89",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/CustomEmotion/B2",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/CustomEmotion/7C/7CC36AB9F66B266A8988B9CCB48E9240",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/CustomEmotion/7C",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/CustomEmotion/81/8181CE500BA45928A02CC5924736BDEA",
-    "BigData/未命名.md",
-    "BigData/词袋模型.md",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/Cache/2023-08/a3b9a208319df720d9d97ba7c200e1fb.jpg",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/Cache/2023-08/47d595d1a2be75515f40557bb29d7027.jpg",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/Cache/2023-08/4d19cefc56ecf5bb15220e008563947a_t.jpg",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/File/2023-08/词袋模型.md",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/File/2023-08/TF-IDF.md",
+    "Android/OOM/Memory.md",
+    "storage/BigData/《数据竞赛入门讲义》.pdf",
+    "Android/OOM/Koom原理.md",
     "BigData/TF-IDF.md",
-    "Android/OOM/Memory.md"
+    "经济/结构性改革.md",
+    "Android/OOM",
+    "Untitled",
+    "Android",
+    "zotero.sqlite.1.bak",
+    "storage/BigData/AI夏令营(第二期) - AI量化模型预测挑战赛实践教程 .pdf",
+    "storage/BigData/数据竞赛流程-阿水.pdf",
+    "storage/BigData/AI夏令营（第二期） - NLP赛事实践教程.pdf",
+    "storage/BigData/竞赛实践路线分享.pdf",
+    "BigData/竞赛路线.md",
+    "BigData/文本分类.md",
+    "tmp/recognizePDFcache.txt",
+    "BigData/词向量.md",
+    "BigData/词袋模型.md",
+    "BigData/词频-逆文档频率.md",
+    "BigData/BERT.md",
+    "BigData/词带模型.md"
   ]
 }
