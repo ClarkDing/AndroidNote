@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/OOM/Koom原理.md",
+                "file": "Cards/3.1 卢曼卡片笔记法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/OOM/Koom原理.md",
+                "file": "Cards/3.1 卢曼卡片笔记法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/OOM/Koom原理.md",
+                "file": "Cards/3.1 卢曼卡片笔记法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/OOM/Koom原理.md"
+                "file": "Cards/3.1 卢曼卡片笔记法.md"
               }
             }
           }
@@ -146,29 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ac80e3db509f9f0",
+  "active": "c9cbf9e93f533531",
   "lastOpenFiles": [
-    "storage/Manager/别让猴子跳回背上.pdf",
-    "storage/Manager",
-    "Android/OOM/Memory.md",
-    "storage/BigData/《数据竞赛入门讲义》.pdf",
-    "Android/OOM/Koom原理.md",
-    "BigData/TF-IDF.md",
-    "经济/结构性改革.md",
-    "Android/OOM",
-    "Untitled",
-    "Android",
-    "zotero.sqlite.1.bak",
-    "storage/BigData/AI夏令营(第二期) - AI量化模型预测挑战赛实践教程 .pdf",
-    "storage/BigData/数据竞赛流程-阿水.pdf",
-    "storage/BigData/AI夏令营（第二期） - NLP赛事实践教程.pdf",
-    "storage/BigData/竞赛实践路线分享.pdf",
+    "Cards/1.1 死锁.md",
+    "Cards/3.1 卢曼卡片笔记法.md",
+    "Cards/2.1 复试记账法.md",
+    "2023/文本分类.md",
+    "2023/企业经营环境.md",
+    "2023/结构性改革.md",
+    "2023/词频-逆文档频率.md",
+    "2023/词袋模型.md",
+    "storage/Write/1691458532844.jpg",
+    "Cards",
+    "storage/Write/卢曼笔记法实操.md",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/a.html",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统.html",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/main.a634f48.js",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/runtime-main.a01d5df.js",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/7dde5f3113b9dcdf1c3d008d753c8174443356c8.js",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/1000g2jo2q8ajh5qk80505p52gul2qqaiij2obno.webp",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/1040g2jo30n6on3cc5a4g5o9cj54gbqbq574r9mg.webp",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/61e6669496a2171071fe2f99.webp",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/1000g2jo2q7i8o0ok60004a023q0lbq9vfegi1qo.webp",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/5a72f8d2d2c8a50846b7ad88.webp",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/6442652447807117dee3eadc.webp",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/1000g2jo2n1sgqk6js06g5p4g7kgqpcvrdeeciv0.jpg",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/5af8636c11be1033875e9077.webp",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/64848ba679b89dc9fe8875dd.webp",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/NPS.cbfc3bb.chunk.css",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/f4dc46fa31b5dd7c8707e42ad56318f958584de0.js",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/6e0d0a976c31ec4cf07d8dfaea68aefe79a8c678.js",
+    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files",
+    "2023/Koom原理.md",
+    "2023/复试记账法.md",
+    "2023/Memory.md",
+    "2023/TF-IDF.md",
     "BigData/竞赛路线.md",
-    "BigData/文本分类.md",
-    "BigData/词向量.md",
-    "BigData/词袋模型.md",
-    "BigData/词频-逆文档频率.md",
-    "BigData/BERT.md",
+    "2023/词向量.md",
+    "2023/BERT.md",
     "BigData/词带模型.md"
   ]
 }
