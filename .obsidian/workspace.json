@@ -136,11 +136,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,7 +153,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d81ee7d0ea4c459f",
+  "active": "afd8835d45ff0d5b",
   "lastOpenFiles": [
     "Cards/1.2ab Android内存溢出.md",
     "storage/Android/Android OOM治理实践与思考.pdf",
