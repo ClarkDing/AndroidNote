@@ -11,15 +11,26 @@
             "id": "c9cbf9e93f533531",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "storage/Android/Android OOM治理实践与思考.pdf"
+              }
+            }
+          },
+          {
+            "id": "2be5d1694bc824da",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/3.1 卢曼卡片笔记法.md",
+                "file": "Cards/1.2ab Android内存溢出.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/3.1 卢曼卡片笔记法.md",
+                "file": "Cards/1.2ab Android内存溢出.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/3.1 卢曼卡片笔记法.md",
+                "file": "Cards/1.2ab Android内存溢出.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/3.1 卢曼卡片笔记法.md"
+                "file": "Cards/1.2ab Android内存溢出.md"
               }
             }
           }
@@ -138,45 +149,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "c9cbf9e93f533531",
+  "active": "2be5d1694bc824da",
   "lastOpenFiles": [
+    "storage/Android/Android OOM治理实践与思考.pdf",
+    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/CustomEmotion/91/91B64920C73C21EB9F67589B10ADAEB2",
+    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/CustomEmotion/A7/A736C0729E3066F4B15EB6094D3D5818",
+    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/CustomEmotion/A7",
+    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/MsgAttach/99de832a6d14f93c5ea9e599da1984ff/Thumb/2023-08/03fa8af209a67bae14b407cbb40eb11d_t.dat.rst",
+    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/MsgAttach/99de832a6d14f93c5ea9e599da1984ff/Image/2023-08/840e500bf440fd070635c8a3f98161f3.dat",
+    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/Temp/840e500bf440fd070635c8a3f98161f5241",
+    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/MsgAttach/99de832a6d14f93c5ea9e599da1984ff/Image/2023-08/840e500bf440fd070635c8a3f98161f3.data590a77ca825d3fbb52ac0b32b8ae8b5",
+    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/MsgAttach/99de832a6d14f93c5ea9e599da1984ff/Image/2023-08/a873f31d8dc58fba902e24165098918e.dat",
+    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/Temp/a873f31d8dc58fba902e241650989189763",
+    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/MsgAttach/99de832a6d14f93c5ea9e599da1984ff/Image/2023-08/a873f31d8dc58fba902e24165098918e.datf4af8a0ad0c085a5f44c64d4340bea19",
+    "Cards/1.2ab Android内存溢出.md",
+    "storage/Android/JvmMemory.png",
+    "Cards/1.2a Java内存模型.md",
     "Cards/1.1 死锁.md",
-    "Cards/3.1 卢曼卡片笔记法.md",
+    "Cards/1.3a 数据结构—栈.md",
     "Cards/2.1 复试记账法.md",
+    "Cards/1.2aa 虚拟机栈.md",
+    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/Cache/2023-08/b5539d8a11a9063c32a745fe7c75dfca_t.jpg",
+    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/Cache/2023-08/12858ba296c52cfd1970e754d9a0902f.jpg",
+    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/Cache/2023-08/96d15ed7e33d44bf838ff8e1872a8691_t.jpg",
+    "Cards/3.1 卢曼卡片笔记法.md",
     "2023/文本分类.md",
     "2023/企业经营环境.md",
     "2023/结构性改革.md",
     "2023/词频-逆文档频率.md",
     "2023/词袋模型.md",
     "storage/Write/1691458532844.jpg",
-    "Cards",
     "storage/Write/卢曼笔记法实操.md",
-    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/a.html",
-    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统.html",
-    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/main.a634f48.js",
-    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/runtime-main.a01d5df.js",
-    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/7dde5f3113b9dcdf1c3d008d753c8174443356c8.js",
     "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/1000g2jo2q8ajh5qk80505p52gul2qqaiij2obno.webp",
     "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/1040g2jo30n6on3cc5a4g5o9cj54gbqbq574r9mg.webp",
     "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/61e6669496a2171071fe2f99.webp",
     "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/1000g2jo2q7i8o0ok60004a023q0lbq9vfegi1qo.webp",
     "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/5a72f8d2d2c8a50846b7ad88.webp",
-    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/6442652447807117dee3eadc.webp",
-    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/1000g2jo2n1sgqk6js06g5p4g7kgqpcvrdeeciv0.jpg",
-    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/5af8636c11be1033875e9077.webp",
-    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/64848ba679b89dc9fe8875dd.webp",
-    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/NPS.cbfc3bb.chunk.css",
-    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/f4dc46fa31b5dd7c8707e42ad56318f958584de0.js",
-    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files/6e0d0a976c31ec4cf07d8dfaea68aefe79a8c678.js",
-    "storage/Write/卢曼卡片笔记法从入门到精通3——编号系统_files",
     "2023/Koom原理.md",
     "2023/复试记账法.md",
     "2023/Memory.md",
