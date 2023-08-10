@@ -16,21 +16,8 @@
                 "file": "storage/Android/Android OOM治理实践与思考.pdf"
               }
             }
-          },
-          {
-            "id": "2be5d1694bc824da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/1.2ab Android内存溢出.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/1.2ab Android内存溢出.md",
+                "file": "storage/Android/Android OOM治理实践与思考.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/1.2ab Android内存溢出.md",
+                "file": "storage/Android/Android OOM治理实践与思考.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,16 +123,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/1.2ab Android内存溢出.md"
+                "file": "storage/Android/Android OOM治理实践与思考.pdf"
               }
             }
+          },
+          {
+            "id": "bfebf372bafa3576",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +152,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2be5d1694bc824da",
+  "active": "d81ee7d0ea4c459f",
   "lastOpenFiles": [
+    "Cards/1.2ab Android内存溢出.md",
     "storage/Android/Android OOM治理实践与思考.pdf",
     "WeChat Files/wxid_8qegcmc108oa22/FileStorage/CustomEmotion/91/91B64920C73C21EB9F67589B10ADAEB2",
     "WeChat Files/wxid_8qegcmc108oa22/FileStorage/CustomEmotion/A7/A736C0729E3066F4B15EB6094D3D5818",
@@ -169,8 +165,6 @@
     "WeChat Files/wxid_8qegcmc108oa22/FileStorage/MsgAttach/99de832a6d14f93c5ea9e599da1984ff/Image/2023-08/840e500bf440fd070635c8a3f98161f3.data590a77ca825d3fbb52ac0b32b8ae8b5",
     "WeChat Files/wxid_8qegcmc108oa22/FileStorage/MsgAttach/99de832a6d14f93c5ea9e599da1984ff/Image/2023-08/a873f31d8dc58fba902e24165098918e.dat",
     "WeChat Files/wxid_8qegcmc108oa22/FileStorage/Temp/a873f31d8dc58fba902e241650989189763",
-    "WeChat Files/wxid_8qegcmc108oa22/FileStorage/MsgAttach/99de832a6d14f93c5ea9e599da1984ff/Image/2023-08/a873f31d8dc58fba902e24165098918e.datf4af8a0ad0c085a5f44c64d4340bea19",
-    "Cards/1.2ab Android内存溢出.md",
     "storage/Android/JvmMemory.png",
     "Cards/1.2a Java内存模型.md",
     "Cards/1.1 死锁.md",
